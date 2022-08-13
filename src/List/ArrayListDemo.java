@@ -23,7 +23,7 @@ public class ArrayListDemo {
         System.out.println(list);
 
         ArrayList<Friend> friends = new ArrayList<>();
-        Friend friend = new Friend("Aryan", 112233445566L);
+        Friend friend = new Friend("Aryan", 112233345566L);
         Friend friend1 = new Friend("Ary", 1234567890222L);
         friends.add(friend);
         friends.add(friend1);
